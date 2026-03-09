@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Performance Dashboard (Power BI)
+# E-Commerce Sales Performance Dashboard (Power BI)
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ The dashboard transforms raw transactional data into meaningful **business insig
 
 ---
 
-# 📷 Dashboard Preview
+# Dashboard Preview
 
 ## Report 1 – Sales Overview
 
@@ -50,7 +50,7 @@ The dashboard transforms raw transactional data into meaningful **business insig
 
 ---
 
-# 🛠 Tools & Technologies
+# Tools & Technologies
 
 - Power BI
 - DAX (Data Analysis Expressions)
@@ -60,7 +60,7 @@ The dashboard transforms raw transactional data into meaningful **business insig
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 Ecommerce-Sales-Dashboard  
 │  
@@ -70,7 +70,7 @@ Ecommerce-Sales-Dashboard
 
 ---
 
-# 🎯 Skills Demonstrated
+# Skills Demonstrated
 
 - Data visualization
 - Dashboard design
