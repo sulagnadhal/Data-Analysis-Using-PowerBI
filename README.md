@@ -9,6 +9,7 @@ The dashboard transforms raw transactional data into meaningful **business insig
 ---
 
 # Dashboard Preview
+![Report 1 Dashboard](Dashboard.png)
 
 ## Report 1 – Sales Overview
 
